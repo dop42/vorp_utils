@@ -1,3 +1,13 @@
+<p align="center">
+    <sub>
+        ⚠️ <strong>VORP Utils is now deprecated.</strong><br>
+        It is strongly recommended to migrate to <strong>VORP Lib</strong>, the new official library, which is more complete, better optimized, and provides a wider range of advanced features.<br>
+        <br>
+        VORP Lib is actively maintained and is now the standard foundation for all new development.
+        Please update your scripts to avoid future compatibility issues.
+    </sub>
+</p>
+
 # Vorp Utils 
 
 > A Vorp Utility Script that allows developers to easily interact with RedM Natives and VorpCore in a Vorp standardized way. The goal of this is to make it easier to use some of the more complicated, or heavily lined natives.
